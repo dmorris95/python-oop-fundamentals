@@ -1,0 +1,3 @@
+Skyscraper,30
+Modern Home,3
+Apartment Tower,14

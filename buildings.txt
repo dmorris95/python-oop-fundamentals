@@ -1,0 +1,7 @@
+Apartments,10
+Office Building,4
+Townhouse,2
+Offices,8
+Skyscraper,30
+Modern Home,3
+Apartment Tower,14
